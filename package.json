@@ -1,5 +1,5 @@
 {
-  "name": "grunt-http-server",
+  "name": "nova-grunt-http-server",
   "description": "Grunt static http server task ",
   "version": "2.1.0",
   "homepage": "http://divhide.com",
